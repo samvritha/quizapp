@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the supreme law of India?",
+    "options": [
+      "Constitution",
+      "Indian Penal Code",
+      "Civil Procedure Code",
+      "Criminal Procedure Code"
+    ],
+    "answer": "Constitution"
+  },
+  {
+    "question": "How many High Courts are there in India?",
+    "options": ["25", "28", "30", "24"],
+    "answer": "25"
+  },
+  {
+    "question": "Which article of the Indian Constitution deals with Equality Before Law?",
+    "options": ["Article 13", "Article 14", "Article 15", "Article 16"],
+    "answer": "Article 14"
+  },
+  {
+    "question": "Which part of the Constitution of India declares the ideal of Welfare State?",
+    "options": ["Part III", "Part IV", "Part II", "Part V"],
+    "answer": "Part IV"
+  },
+  {
+    "question": "What is the minimum voting age in India?",
+    "options": ["18", "21", "25", "23"],
+    "answer": "18"
+  },
+  {
+    "question": "What is the retirement age of Supreme Court Judges?",
+    "options": ["60", "62", "65", "70"],
+    "answer": "65"
+  },
+  {
+    "question": "What is the retirement age of High Court Judges?",
+    "options": ["60", "62", "65", "70"],
+    "answer": "62"
+  },
+  {
+    "question": "Who is the guardian of Fundamental Rights enumerated in the Indian Constitution?",
+    "options": [
+      "Supreme Court",
+      "Parliament",
+      "President of India",
+      "Attorney General"
+    ],
+    "answer": "Supreme Court"
+  },
+  {
+    "question": "Which constitutional article abolishes untouchability?",
+    "options": ["Article 15", "Article 17", "Article 19", "Article 21"],
+    "answer": "Article 17"
+  },
+  {
+    "question": "Which article of the Constitution of India says, 'No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment'?",
+    "options": ["Article 24", "Article 45", "Article 31", "Article 16"],
+    "answer": "Article 24"
+  },
+  {
+    "question": "Which constitutional amendment granted equal rights to voters to participate in Panchayat Elections?",
+    "options": ["72nd", "73rd", "74th", "75th"],
+    "answer": "73rd"
+  },
+  {
+    "question": "Which schedule of the Indian Constitution details the powers, authority, and responsibilities of Panchayats?",
+    "options": [
+      "Fifth Schedule",
+      "Sixth Schedule",
+      "Eleventh Schedule",
+      "Eighth Schedule"
+    ],
+    "answer": "Eleventh Schedule"
+  },
+  {
+    "question": "What does the Preamble of the Indian Constitution contain?",
+    "options": [
+      "The vision of the founding fathers",
+      "The objectives of the Constitution",
+      "The source of authority of the Constitution",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the maximum number of members of the House of the People?",
+    "options": ["540", "545", "552", "550"],
+    "answer": "552"
+  },
+  {
+    "question": "How long is the term of a Member of the Rajya Sabha?",
+    "options": ["5 years", "6 years", "4 years", "Permanent"],
+    "answer": "6 years"
+  },
+  {
+    "question": "How many members of the Anglo-Indian community can be nominated to the House of the People by the President of India?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "question": "Who has the power to dissolve the House of the People?",
+    "options": [
+      "The President",
+      "The Prime Minister",
+      "The Speaker of the House of the People",
+      "The Chief Justice of India"
+    ],
+    "answer": "The President"
+  },
+  {
+    "question": "Who appoints the Prime Minister of India?",
+    "options": [
+      "The President",
+      "The Chief Justice of India",
+      "The Speaker of the House of the People",
+      "The people of India"
+    ],
+    "answer": "The President"
+  },
+  {
+    "question": "Who is the ex-officio Chairman of the Council of States?",
+    "options": [
+      "The President",
+      "The Vice-President",
+      "The Prime Minister",
+      "The Chief Justice of India"
+    ],
+    "answer": "The Vice-President"
+  },
+  {
+    "question": "Who is responsible for the protection of the rights of the individual against the violation by the State?",
+    "options": [
+      "The Supreme Court",
+      "The President",
+      "The Parliament",
+      "The Prime Minister"
+    ],
+    "answer": "The Supreme Court"
+  },
+  {
+    "question": "Which constitutional article defines the Power of President to grant pardons?",
+    "options": ["Article 72", "Article 74", "Article 76", "Article 78"],
+    "answer": "Article 72"
+  },
+  {
+    "question": "Which article says that the Council of Ministers shall be collectively responsible to the House of the People?",
+    "options": ["Article 75", "Article 74", "Article 76", "Article 77"],
+    "answer": "Article 75"
+  }
+]
